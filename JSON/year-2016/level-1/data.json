@@ -1,0 +1,2747 @@
+{
+    "Optimizing statistical machine translation for text simplification": [
+        [
+            "Sentence simplification with deep reinforcement learning",
+            [
+                "X Zhang",
+                "M Lapata"
+            ]
+        ],
+        [
+            "Dear sir or madam may I introduce the GYAFC dataset Corpus benchmarks and metrics for formality style transfer",
+            [
+                "S Rao",
+                "J Tetreault"
+            ]
+        ],
+        [
+            "Leveraging pre trained checkpoints for sequence generation tasks",
+            [
+                "S Rothe",
+                "S Narayan",
+                "A Severyn"
+            ]
+        ],
+        [
+            "Exploring neural text simplification models",
+            [
+                "S Nisioi",
+                "S S\u030ctajner",
+                "SP Ponzetto"
+            ]
+        ],
+        [
+            "Integrating transformer and paraphrase rules for sentence simplification",
+            [
+                "S Zhao",
+                "R Meng",
+                "D He",
+                "S Andi",
+                "P Bambang"
+            ]
+        ],
+        [
+            "Encode tag realize High precision text editing",
+            [
+                "E Malmi",
+                "S Krause",
+                "S Rothe",
+                "D Mirylenka"
+            ]
+        ],
+        [
+            "EditNTS An neural programmer interpreter model for sentence simplification through explicit editing",
+            [
+                "Y Dong",
+                "Z Li",
+                "M Rezagholizadeh"
+            ]
+        ],
+        [
+            "Simple PPDB A paraphrase database for simplification",
+            [
+                "E Pavlick",
+                "C Callison-Burch"
+            ]
+        ],
+        [
+            "Split and rephrase",
+            [
+                "S Narayan",
+                "C Gardent",
+                "SB Cohen"
+            ]
+        ],
+        [
+            "Break it down A question understanding benchmark",
+            [
+                "T Wolfson",
+                "M Geva",
+                "A Gupta",
+                "M Gardner"
+            ]
+        ],
+        [
+            "Handling divergent reference texts when evaluating table to text generation",
+            [
+                "B Dhingra",
+                "M Faruqui",
+                "A Parikh",
+                "MW Chang"
+            ]
+        ],
+        [
+            "Quality estimation for machine translation",
+            [
+                "L Specia",
+                "C Scarton"
+            ]
+        ],
+        [
+            "Multi task neural models for translating between styles within and across languages",
+            [
+                "X Niu",
+                "S Rao",
+                "M Carpuat"
+            ]
+        ],
+        [
+            "A survey on lexical simplification",
+            [
+                "GH Paetzold",
+                "L Specia"
+            ]
+        ],
+        [
+            "Dynamic multi level multi task learning for sentence simplification",
+            [
+                "H Guo",
+                "R Pasunuru",
+                "M Bansal"
+            ]
+        ],
+        [
+            "Controllable sentence simplification",
+            [
+                "L Martin",
+                "B Sagot",
+                "E de la Clergerie"
+            ]
+        ],
+        [
+            "Unsupervised neural text simplification",
+            [
+                "S Surya",
+                "A Mishra",
+                "A Laha",
+                "P Jain"
+            ]
+        ],
+        [
+            "Sentence simplification with memory augmented neural networks",
+            [
+                "T Vu",
+                "B Hu",
+                "T Munkhdalai",
+                "H Yu"
+            ]
+        ],
+        [
+            "Data driven sentence simplification Survey and benchmark",
+            [
+                "F Alva-Manchego",
+                "C Scarton",
+                "L Specia"
+            ]
+        ],
+        [
+            "EASSE Easier automatic sentence simplification evaluation",
+            [
+                "F Alva-Manchego",
+                "L Martin",
+                "C Scarton"
+            ]
+        ],
+        [
+            "Simple and effective text simplification using semantic and neural methods",
+            [
+                "E Sulem",
+                "O Abend",
+                "A Rappoport"
+            ]
+        ],
+        [
+            "Query and output Generating words by querying distributed word representations for paraphrase generation",
+            [
+                "S Ma",
+                "X Sun",
+                "W Li",
+                "S Li",
+                "W Li",
+                "X Ren"
+            ]
+        ],
+        [
+            "Abstractive unsupervised multi document summarization using paraphrastic sentence fusion",
+            [
+                "MT Nayeem",
+                "TA Fuad",
+                "Y Chali"
+            ]
+        ],
+        [
+            "The gem benchmark Natural language generation its evaluation and metrics",
+            [
+                "S Gehrmann",
+                "T Adewumi",
+                "K Aggarwal"
+            ]
+        ],
+        [
+            "Learning how to simplify from explicit labeling of complex simplified text pairs",
+            [
+                "F Alva-Manchego",
+                "J Bingel",
+                "G Paetzold"
+            ]
+        ],
+        [
+            "ASSET A dataset for tuning and evaluation of sentence simplification models with multiple rewriting transformations",
+            [
+                "F Alva-Manchego",
+                "L Martin",
+                "A Bordes"
+            ]
+        ],
+        [
+            "A dataset and evaluation metrics for abstractive compression of sentences and short paragraphs",
+            [
+                "K Toutanova",
+                "C Brockett",
+                "KM Tran",
+                "S Amershi"
+            ]
+        ],
+        [
+            "A word complexity lexicon and a neural readability ranking model for lexical simplification",
+            [
+                "M Maddela",
+                "W Xu"
+            ]
+        ],
+        [
+            "Complexity weighted loss and diverse reranking for sentence simplification",
+            [
+                "R Kriz",
+                "J Sedoc",
+                "M Apidianaki",
+                "C Zheng"
+            ]
+        ],
+        [
+            "Learning simplifications for specific target audiences",
+            [
+                "C Scarton",
+                "L Specia"
+            ]
+        ],
+        [
+            "Complex A new corpus for lexical complexity prediction from likert scale data",
+            [
+                "M Shardlow",
+                "M Cooper",
+                "M Zampieri"
+            ]
+        ],
+        [
+            "Unsupervised sentence simplification using deep semantics",
+            [
+                "S Narayan",
+                "C Gardent"
+            ]
+        ],
+        [
+            "Expertise style transfer A new task towards better communication between experts and laymen",
+            [
+                "Y Cao",
+                "R Shui",
+                "L Pan",
+                "MY Kan",
+                "Z Liu"
+            ]
+        ],
+        [
+            "Controlling text complexity in neural machine translation",
+            [
+                "S Agrawal",
+                "M Carpuat"
+            ]
+        ],
+        [
+            "Neural CRF model for sentence alignment in text simplification",
+            [
+                "C Jiang",
+                "M Maddela",
+                "W Lan",
+                "Y Zhong",
+                "W Xu"
+            ]
+        ],
+        [
+            "Controllable text simplification with lexical constraint loss",
+            [
+                "D Nishihara",
+                "T Kajiwara",
+                "Y Arase"
+            ]
+        ],
+        [
+            "Learning to update natural language comments based on code changes",
+            [
+                "S Panthaplackel",
+                "P Nie",
+                "M Gligoric",
+                "JJ Li"
+            ]
+        ],
+        [
+            "DiscoFuse A large scale dataset for discourse based sentence fusion",
+            [
+                "M Geva",
+                "E Malmi",
+                "I Szpektor",
+                "J Berant"
+            ]
+        ],
+        [
+            "Iterative edit based unsupervised sentence simplification",
+            [
+                "D Kumar",
+                "L Mou",
+                "L Golab",
+                "O Vechtomova"
+            ]
+        ],
+        [
+            "Evaluating prose style transfer with the Bible",
+            [
+                "K Carlson",
+                "A Riddell"
+            ]
+        ],
+        [
+            "D page Diverse paraphrase generation",
+            [
+                "Q Xu",
+                "J Zhang",
+                "L Qu",
+                "L Xie",
+                "R Nock"
+            ]
+        ],
+        [
+            "Reference less quality estimation of text simplification systems",
+            [
+                "L Martin",
+                "S Humeau",
+                "PE Mazare\u0301",
+                "A Bordes"
+            ]
+        ],
+        [
+            "Controllable text simplification with explicit paraphrasing",
+            [
+                "M Maddela",
+                "F Alva-Manchego",
+                "W Xu"
+            ]
+        ],
+        [
+            "Felix Flexible text editing through tagging and insertion",
+            [
+                "J Mallinson",
+                "A Severyn",
+                "E Malmi",
+                "G Garrido"
+            ]
+        ],
+        [
+            "Evaluating neural text simplification in the medical domain",
+            [
+                "L Van den Bercken",
+                "RJ Sips",
+                "C Lofi"
+            ]
+        ],
+        [
+            "Ext5 Towards extreme multi task scaling for transfer learning",
+            [
+                "V Aribandi",
+                "Y Tay",
+                "T Schuster",
+                "J Rao",
+                "HS Zheng"
+            ]
+        ],
+        [
+            "Text simplification from professionally produced corpora",
+            [
+                "C Scarton",
+                "G Paetzold",
+                "L Specia"
+            ]
+        ],
+        [
+            "Neural text simplification of clinical letters with a domain specific phrase table",
+            [
+                "M Shardlow",
+                "R Nawaz"
+            ]
+        ],
+        [
+            "A theme rewriting approach for generating algebra word problems",
+            [
+                "R Koncel-Kedziorski",
+                "I Konstas",
+                "L Zettlemoyer"
+            ]
+        ],
+        [
+            "A semantic relevance based neural network for text summarization and text simplification",
+            [
+                "S Ma",
+                "X Sun"
+            ]
+        ],
+        [
+            "Leveraging event based semantics for automated text simplification",
+            [
+                "S S\u030ctajner",
+                "G Glavas\u030c"
+            ]
+        ],
+        [
+            "A detailed evaluation of neural sequence to sequence models for in domain and cross domain text simplification",
+            [
+                "S S\u030ctajner",
+                "S Nisioi"
+            ]
+        ],
+        [
+            "Systematically adapting machine translation for grammatical error correction",
+            [
+                "C Napoles",
+                "C Callison-Burch"
+            ]
+        ],
+        [
+            "Seq2Edits Sequence transduction using span level edit operations",
+            [
+                "F Stahlberg",
+                "S Kumar"
+            ]
+        ],
+        [
+            "Inherent biases in reference based evaluation for grammatical error correction and text simplification",
+            [
+                "L Choshen",
+                "O Abend"
+            ]
+        ],
+        [
+            "Negative lexically constrained decoding for paraphrase generation",
+            [
+                "T Kajiwara"
+            ]
+        ],
+        [
+            "Discourse level factors for sentence deletion in text simplification",
+            [
+                "Y Zhong",
+                "C Jiang",
+                "W Xu",
+                "JJ Li"
+            ]
+        ],
+        [
+            "Multilingual unsupervised sentence simplification",
+            [
+                "L Martin",
+                "A Fan",
+                "E\u0301 de la Clergerie"
+            ]
+        ],
+        [
+            "A survey on text simplification",
+            [
+                "P Sikka",
+                "V Mago"
+            ]
+        ],
+        [
+            "Controlling the reading level of machine translation output",
+            [
+                "K Marchisio",
+                "J Guo",
+                "CI Lai",
+                "P Koehn"
+            ]
+        ],
+        [
+            "Automatic fact guided sentence modification",
+            [
+                "D Shah",
+                "T Schuster",
+                "R Barzilay"
+            ]
+        ],
+        [
+            "Decontextualization Making sentences stand alone",
+            [
+                "E Choi",
+                "J Palomaki",
+                "M Lamm",
+                "T Kwiatkowski"
+            ]
+        ],
+        [
+            "Neural text simplification in low resource conditions using weak supervision",
+            [
+                "A Palmero Aprosio",
+                "S Tonelli",
+                "M Turchi",
+                "M Negri"
+            ]
+        ],
+        [
+            "Automated text simplification A survey",
+            [
+                "SS Al-Thanyyan",
+                "AM Azmi"
+            ]
+        ],
+        [
+            "Semi supervised text simplification with back translation and asymmetric denoising autoencoders",
+            [
+                "Y Zhao",
+                "L Chen",
+                "Z Chen",
+                "K Yu"
+            ]
+        ],
+        [
+            "Sentential paraphrasing as black box machine translation",
+            [
+                "C Napoles",
+                "C Callison-Burch"
+            ]
+        ],
+        [
+            "Privacy aware text rewriting",
+            [
+                "Q Xu",
+                "L Qu",
+                "C Xu",
+                "R Cui"
+            ]
+        ],
+        [
+            "Automatic metric validation for grammatical error correction",
+            [
+                "L Choshen",
+                "O Abend"
+            ]
+        ],
+        [
+            "Building a non trivial paraphrase corpus using multiple machine translation systems",
+            [
+                "Y Suzuki",
+                "T Kajiwara",
+                "M Komachi"
+            ]
+        ],
+        [
+            "Automatic assessment of conceptual text complexity using knowledge graphs",
+            [
+                "S S\u030ctajner",
+                "I Hulpus\u0326"
+            ]
+        ],
+        [
+            "Plug and play autoencoders for conditional text generation",
+            [
+                "F Mai",
+                "N Pappas",
+                "I Montero",
+                "NA Smith"
+            ]
+        ],
+        [
+            "HTSS A novel hybrid text summarisation and simplification architecture",
+            [
+                "F Zaman",
+                "M Shardlow",
+                "SU Hassan",
+                "NR Aljohani"
+            ]
+        ],
+        [
+            "From Shakespeare to Twitter What are Language Styles all about ",
+            [
+                "W Xu"
+            ]
+        ],
+        [
+            "Simplified corpus with core vocabulary",
+            [
+                "T Maruyama",
+                "K Yamamoto"
+            ]
+        ],
+        [
+            "MUSS multilingual unsupervised sentence simplification by mining paraphrases",
+            [
+                "L Martin",
+                "A Fan",
+                "E\u0301 de la Clergerie",
+                "A Bordes"
+            ]
+        ],
+        [
+            "Identifying signs of syntactic complexity for rule based sentence simplification",
+            [
+                "R Evans",
+                "C Ora\u0306san"
+            ]
+        ],
+        [
+            "Data driven text simplification",
+            [
+                "S S\u030ctajner",
+                "H Saggion"
+            ]
+        ],
+        [
+            "Controllable sentence simplification Employing syntactic and lexical constraints",
+            [
+                "J Mallinson",
+                "M Lapata"
+            ]
+        ],
+        [
+            "Personalized Dialogue Response Generation Learned from Monologues ",
+            [
+                "FG Su",
+                "AR Hsu",
+                "YL Tuan",
+                "HY Lee"
+            ]
+        ],
+        [
+            "CombiNMT An exploration into neural text simplification models",
+            [
+                "M Cooper",
+                "M Shardlow"
+            ]
+        ],
+        [
+            "Generating animations from screenplays",
+            [
+                "Y Zhang",
+                "E Tsipidi",
+                "S Schriber",
+                "M Kapadia"
+            ]
+        ],
+        [
+            "AutoMeTS the autocomplete for medical text simplification",
+            [
+                "H Van",
+                "D Kauchak",
+                "G Leroy"
+            ]
+        ],
+        [
+            "Crowdsourced corpus of sentence simplification with core vocabulary",
+            [
+                "A Katsuta",
+                "K Yamamoto"
+            ]
+        ],
+        [
+            "ABNIRML analyzing the behavior of neural IR models",
+            [
+                "S MacAvaney",
+                "S Feldman",
+                "N Goharian"
+            ]
+        ],
+        [
+            "Plain English summarization of contracts",
+            [
+                "L Manor",
+                "JJ Li"
+            ]
+        ],
+        [
+            "French biomedical text simplification When small and precise helps",
+            [
+                "R Cardon",
+                "N Grabar"
+            ]
+        ],
+        [
+            "Paraphrastic fusion for abstractive multi sentence compression generation",
+            [
+                "MT Nayeem",
+                "Y Chali"
+            ]
+        ],
+        [
+            "A corpus for automatic readability assessment and text simplification of german",
+            [
+                "A Battisti",
+                "S Ebling"
+            ]
+        ],
+        [
+            "Paragraph level simplification of medical texts",
+            [
+                "A Devaraj",
+                "BC Wallace",
+                "IJ Marshall"
+            ]
+        ],
+        [
+            "Machine learning models for measuring syntax complexity of english text",
+            [
+                "D Schicchi",
+                "G Lo Bosco",
+                "G Pilato"
+            ]
+        ],
+        [
+            "Simpa A sentence level simplification corpus for the public administration domain",
+            [
+                "C Scarton",
+                "G Paetzold",
+                "L Specia"
+            ]
+        ],
+        [
+            "Simplification induced transformations typology and some characteristics",
+            [
+                "A Koptient",
+                "R Cardon",
+                "N Grabar"
+            ]
+        ],
+        [
+            "Natural language generation using deep learning to support MOOC learners",
+            [
+                "C Li",
+                "W Xing"
+            ]
+        ],
+        [
+            "Large scale hierarchical alignment for data driven text rewriting",
+            [
+                "NI Nikolov",
+                "RHR Hahnloser"
+            ]
+        ],
+        [
+            "Text simplification by tagging",
+            [
+                "K Omelianchuk",
+                "V Raheja",
+                "O Skurzhanskyi"
+            ]
+        ],
+        [
+            "Improving lexical coverage of text simplification systems for Spanish",
+            [
+                "S S\u030ctajner",
+                "H Saggion",
+                "SP Ponzetto"
+            ]
+        ],
+        [
+            "Benchmarking data driven automatic text simplification for German",
+            [
+                "A Sa\u0308uberli",
+                "S Ebling",
+                "M Volk",
+                "N Gala",
+                "R Wilkens"
+            ]
+        ],
+        [
+            "Par4Sim Adaptive Paraphrasing for Text Simplification",
+            [
+                "SM Yimam",
+                "C Biemann"
+            ]
+        ],
+        [
+            "A review of human evaluation for style transfer",
+            [
+                "E Briakou",
+                "S Agrawal",
+                "K Zhang",
+                "J Tetreault"
+            ]
+        ],
+        [
+            "GRUEN for evaluating linguistic quality of generated text",
+            [
+                "W Zhu",
+                "S Bhat"
+            ]
+        ],
+        [
+            "Keep it simple Unsupervised simplification of multi paragraph text",
+            [
+                "P Laban",
+                "T Schnabel",
+                "P Bennett",
+                "MA Hearst"
+            ]
+        ],
+        [
+            "Evaluating semantic rationality of a sentence A sememe word matching neural network based on hownet",
+            [
+                "S Liu",
+                "J Xu",
+                "X Ren"
+            ]
+        ],
+        [
+            "Comparison of methods for evaluating complexity of simplified texts among deaf and hard of hearing adults at different literacy levels",
+            [
+                "O Alonzo",
+                "J Trussell",
+                "B Dingman"
+            ]
+        ],
+        [
+            "Simplify then translate automatic preprocessing for black box translation",
+            [
+                "S Mehta",
+                "B Azarnoush",
+                "B Chen",
+                "A Saluja"
+            ]
+        ],
+        [
+            "Evidence based factual error correction",
+            [
+                "J Thorne",
+                "A Vlachos"
+            ]
+        ],
+        [
+            "Focus attention Promoting faithfulness and diversity in summarization",
+            [
+                "R Aralikatte",
+                "S Narayan",
+                "J Maynez",
+                "S Rothe"
+            ]
+        ],
+        [
+            "Fact based text editing",
+            [
+                "H Iso",
+                "C Qiao",
+                "H Li"
+            ]
+        ],
+        [
+            "Deep just in time inconsistency detection between comments and source code",
+            [
+                "S Panthaplackel",
+                "JJ Li",
+                "M Gligoric"
+            ]
+        ],
+        [
+            "Human evaluation for text simplification The simplicityadequacy tradeoff",
+            [
+                "M Schwarzer",
+                "D Kauchak"
+            ]
+        ],
+        [
+            "Extremely low resource text simplification with pre trained transformer language model",
+            [
+                "T Maruyama",
+                "K Yamamoto"
+            ]
+        ],
+        [
+            "Improving neural text simplification model with simplified corpora",
+            [
+                "J Qiang"
+            ]
+        ],
+        [
+            "Simplify then translate Automatic preprocessing for black box machine translation",
+            [
+                "S Mehta",
+                "B Azarnoush",
+                "B Chen",
+                "A Saluja"
+            ]
+        ],
+        [
+            "Deep learning approaches to text production",
+            [
+                "S Narayan",
+                "C Gardent"
+            ]
+        ],
+        [
+            "Zero shot crosslingual sentence simplification",
+            [
+                "J Mallinson",
+                "R Sennrich",
+                "M Lapata"
+            ]
+        ],
+        [
+            "Implications of developments in machine learning for people with cognitive disabilities",
+            [
+                "C Lewis"
+            ]
+        ],
+        [
+            "Sentence simplification with core vocabulary",
+            [
+                "T Maruyama",
+                "K Yamamoto"
+            ]
+        ],
+        [
+            "An empirical study on application of machine learning and neural network in English learning",
+            [
+                "H Dong",
+                "SB Tsai"
+            ]
+        ],
+        [
+            "PIE A parallel idiomatic expression corpus for idiomatic sentence generation and paraphrasing",
+            [
+                "J Zhou",
+                "H Gong",
+                "S Bhat"
+            ]
+        ],
+        [
+            "Improving text simplification by corpus expansion with unsupervised learning",
+            [
+                "A Katsuta",
+                "K Yamamoto"
+            ]
+        ],
+        [
+            "Text simplification without simplified corpora",
+            [
+                "T Kajiwara",
+                "M Komachi"
+            ]
+        ],
+        [
+            "Words divide pictographs unite Pictograph communication technologies for people with an intellectual disability",
+            [
+                "L Sevens"
+            ]
+        ],
+        [
+            "Storytelling from structured data and knowledge graphs An nlg perspective",
+            [
+                "A Mishra",
+                "A Laha",
+                "K Sankaranarayanan"
+            ]
+        ],
+        [
+            "Text simplification for scientific information access",
+            [
+                "L Ermakova",
+                "P Bellot",
+                "P Braslavski",
+                "J Kamps"
+            ]
+        ],
+        [
+            "Rethinking automatic evaluation in sentence simplification",
+            [
+                "T Scialom",
+                "L Martin",
+                "J Staiano"
+            ]
+        ],
+        [
+            "Text simplification with self attention based pointer generator networks",
+            [
+                "T Li",
+                "Y Li",
+                "J Qiang",
+                "YH Yuan"
+            ]
+        ],
+        [
+            "Reflective decoding Beyond unidirectional generation with off the shelf language models",
+            [
+                "P West",
+                "X Lu",
+                "A Holtzman",
+                "C Bhagavatula"
+            ]
+        ],
+        [
+            "Control prefixes for text generation",
+            [
+                "J Clive",
+                "K Cao",
+                "M Rei"
+            ]
+        ],
+        [
+            "Unsupervised statistical text simplification",
+            [
+                "J Qiang",
+                "X Wu"
+            ]
+        ],
+        [
+            "Some Reference less sub metrics optimized for manual evaluations of grammatical error correction",
+            [
+                "R Yoshimura",
+                "M Kaneko",
+                "T Kajiwara"
+            ]
+        ],
+        [
+            "Elaborative simplification Content addition and explanation generation in text simplification",
+            [
+                "N Srikanth",
+                "JJ Li"
+            ]
+        ],
+        [
+            "LSBert Lexical simplification based on BERT",
+            [
+                "J Qiang",
+                "Y Li",
+                "Y Zhu",
+                "Y Yuan",
+                "Y Shi"
+            ]
+        ],
+        [
+            "Less is more A rule based syntactic simplification module for improved text to pictograph translation",
+            [
+                "L Sevens",
+                "V Vandeghinste",
+                "I Schuurman"
+            ]
+        ],
+        [
+            "PharmMT A neural machine translation approach to simplify prescription directions",
+            [
+                "J Li",
+                "C Lester",
+                "X Zhao",
+                "Y Ding",
+                "Y Jiang"
+            ]
+        ],
+        [
+            "A non autoregressive edit based approach to controllable text simplification",
+            [
+                "S Agrawal",
+                "W Xu",
+                "M Carpuat"
+            ]
+        ],
+        [
+            "A review of text style transfer using deep learning",
+            [
+                "M Toshevska",
+                "S Gievska"
+            ]
+        ],
+        [
+            "The un suitability of automatic evaluation metrics for text simplification",
+            [
+                "F Alva-Manchego",
+                "C Scarton",
+                "L Specia"
+            ]
+        ],
+        [
+            "How to make troubleshooting simpler Assessing differences in perceived sentence simplicity by native and non native speakers",
+            [
+                "S S\u030ctajner"
+            ]
+        ],
+        [
+            "Lost in back translation Emotion preservation in neural machine translation",
+            [
+                "E Troiano",
+                "R Klinger",
+                "S Pado\u0301"
+            ]
+        ],
+        [
+            "Semantically driven sentence fusion Modeling and evaluation",
+            [
+                "E Ben-David",
+                "O Keller",
+                "E Malmi",
+                "I Szpektor"
+            ]
+        ],
+        [
+            "Attention based model for evaluating the complexity of sentences in english language",
+            [
+                "D Schicchi",
+                "G Pilato",
+                "GL Bosco"
+            ]
+        ],
+        [
+            "Lexical simplification by unsupervised machine translation",
+            [
+                "A Katsuta",
+                "K Yamamoto"
+            ]
+        ],
+        [
+            "Neural diverse abstractive sentence compression generation",
+            [
+                "MT Nayeem",
+                "TA Fuad",
+                "Y Chali"
+            ]
+        ],
+        [
+            "Metaphors in text simplification To change or not to change that is the question",
+            [
+                "Y Clausen",
+                "V Nastase"
+            ]
+        ],
+        [
+            "Methods of sentence extraction abstraction and ordering for automatic text summarization",
+            [
+                "MT Nayeem"
+            ]
+        ],
+        [
+            "\u5e73\u6613\u306a\u30b3\u30fc\u30d1\u30b9\u3092\u7528\u3044\u306a\u3044\u30c6\u30ad\u30b9\u30c8\u5e73\u6613\u5316",
+            [
+                "\u68b6\u539f\u667a\u4e4b",
+                "\u5c0f\u753a\u5b88"
+            ]
+        ],
+        [
+            "Automatic Text Simplification for Social Good Progress and Challenges",
+            [
+                "S S\u030ctajner"
+            ]
+        ],
+        [
+            "Coreference based text simplification",
+            [
+                "R Wilkens",
+                "B Oberle",
+                "A Todirascu"
+            ]
+        ],
+        [
+            "AI Approaches to Improving eHealth Literacy and Combating Infodemic",
+            [
+                "T Liu",
+                "X Xiao"
+            ]
+        ],
+        [
+            "Simplification de textes un \u00e9tat de l art Text simplification State of the art This paper presents the state of the art on text simplification in particular the two main types ",
+            [
+                "S Elguendouze"
+            ]
+        ],
+        [
+            "Flesch Kincaid is Not a Text Simplification Evaluation Metric",
+            [
+                "T Tanprasert",
+                "D Kauchak"
+            ]
+        ],
+        [
+            "Explainable prediction of text complexity The missing preliminaries for text simplification",
+            [
+                "C Garbacea",
+                "M Guo",
+                "S Carton",
+                "Q Mei"
+            ]
+        ],
+        [
+            "Improving neural machine translation with neural sentence rewriting",
+            [
+                "T Wu",
+                "Z He",
+                "E Chen",
+                "H Wang"
+            ]
+        ],
+        [
+            "SimplifyUR Unsupervised Lexical Text Simplification for Urdu",
+            [
+                "NH Qasmi",
+                "HB Zia",
+                "A Athar"
+            ]
+        ],
+        [
+            "Large scale hierarchical alignment for author style transfer",
+            [
+                "NI Nikolov",
+                "RHR Hahnloser"
+            ]
+        ],
+        [
+            "Deciding when how and for whom to simplify",
+            [
+                "C Scarton",
+                "P Madhyastha",
+                "L Specia"
+            ]
+        ],
+        [
+            "Greedy flipping for constrained word deletion",
+            [
+                "J Yao",
+                "X Wan"
+            ]
+        ],
+        [
+            "Overview of simpletext 2021 CLEF workshop on text simplification for scientific information access",
+            [
+                "L Ermakova",
+                "P Bellot",
+                "P Braslavski",
+                "J Kamps"
+            ]
+        ],
+        [
+            "An assessment of sentence simplification methods in extractive text summarization",
+            [
+                "R Vale",
+                "RD Lins",
+                "R Ferreira"
+            ]
+        ],
+        [
+            "Simple qe Better automatic quality estimation for text simplification",
+            [
+                "R Kriz",
+                "M Apidianaki",
+                "C Callison-Burch"
+            ]
+        ],
+        [
+            "Cross Sentence Transformations in Text Simplification ",
+            [
+                "F Alva-Manchego",
+                "C Scarton",
+                "L Specia"
+            ]
+        ],
+        [
+            "Monolingual transfer learning via bilingual translators for style sensitive paraphrase generation",
+            [
+                "T Kajiwara",
+                "B Miura",
+                "Y Arase"
+            ]
+        ],
+        [
+            "Understanding and explicitly measuring linguistic and stylistic properties of deception via generation and translation",
+            [
+                "E Saldanha",
+                "A Garimella",
+                "S Volkova"
+            ]
+        ],
+        [
+            "Automatic Sentence Simplification with Multiple Rewriting Transformations",
+            [
+                "FE Alva Manchego"
+            ]
+        ],
+        [
+            "Multitask models for controlling the complexity of neural machine translation",
+            [
+                "S Agrawal",
+                "M Carpuat"
+            ]
+        ],
+        [
+            "Language Translation as a Socio Technical System Case Studies of Mixed Initiative Interactions",
+            [
+                "S Santy",
+                "K Bali",
+                "M Choudhury",
+                "S Dandapat"
+            ]
+        ],
+        [
+            "An Empirical Study on Multi Task Learning for Text Style Transfer and Paraphrase Generation",
+            [
+                "P Bujnowski",
+                "K Ryzhova",
+                "H Choi"
+            ]
+        ],
+        [
+            "\u5e73\u6613\u306a\u30b3\u30fc\u30d1\u30b9\u3092\u7528\u3044\u306a\u3044\u30c6\u30ad\u30b9\u30c8\u5e73\u6613\u5316\u306e\u305f\u3081\u306e\u5358\u8a00\u8a9e\u30d1\u30e9\u30ec\u30eb\u30b3\u30fc\u30d1\u30b9\u306e\u69cb\u7bc9",
+            [
+                "\u68b6\u539f\u667a\u4e4b",
+                "\u5c0f\u753a\u5b88"
+            ]
+        ],
+        [
+            "\u5feb\u9069\u306a\u60c5\u5831\u4eab\u53d7\u3092\u53ef\u80fd\u3068\u3059\u308b\u97f3\u58f0\u5bfe\u8a71\u30b7\u30b9\u30c6\u30e0",
+            [
+                "\u9ad8\u6d25\u5f18\u660e",
+                "\u798f\u5ca1\u7dad\u65b0",
+                "\u85e4\u6c5f\u771f\u4e5f",
+                "\u6797\u826f\u5f66"
+            ]
+        ],
+        [
+            "When the Scale is Unclear Analysis of the Interpretation of Rating Scales in Human Evaluation of Text Simplification ",
+            [
+                "R Stodden"
+            ]
+        ],
+        [
+            "An Unsupervised Method for Building Sentence Simplification Corpora in Multiple Languages",
+            [
+                "X Lu",
+                "J Qiang",
+                "Y Li",
+                "Y Yuan",
+                "Y Zhu"
+            ]
+        ],
+        [
+            "Simplification automatique de textes techniques et sp\u00e9cialis\u00e9s",
+            [
+                "R Cardon"
+            ]
+        ],
+        [
+            "Mipa Mutual information based paraphrase acquisition via bilingual pivoting",
+            [
+                "T Kajiwara",
+                "M Komachi"
+            ]
+        ],
+        [
+            "Cut Controllable unsupervised text simplification",
+            [
+                "O Kariuk",
+                "D Karamshuk"
+            ]
+        ],
+        [
+            "Simplifying sentences with sequence to sequence models",
+            [
+                "A Mathews",
+                "L Xie",
+                "X He"
+            ]
+        ],
+        [
+            "Understanding and Generating Multi Sentence Texts",
+            [
+                "RK Kedziorski"
+            ]
+        ],
+        [
+            "Typologie de transformations dans la simplification de textes",
+            [
+                "A Koptient",
+                "N Grabar"
+            ]
+        ],
+        [
+            "Neural sentence simplification with semantic dependency information",
+            [
+                "Z Lin",
+                "X Wan"
+            ]
+        ],
+        [
+            "Document level text simplification Dataset criteria and baseline",
+            [
+                "R Sun",
+                "H Jin",
+                "X Wan"
+            ]
+        ],
+        [
+            "A New Dataset and Efficient Baselines for Document level Text Simplification in German",
+            [
+                "AR Gonzales",
+                "N Spring",
+                "T Kew"
+            ]
+        ],
+        [
+            "On the helpfulness of document context to sentence simplification",
+            [
+                "R Sun",
+                "Z Lin",
+                "X Wan"
+            ]
+        ],
+        [
+            "Context aware automatic text simplification",
+            [
+                "KC Sheang"
+            ]
+        ],
+        [
+            "Lexical and Syntactic Simplification for Indonesian Text",
+            [
+                "MS Wibowo",
+                "A Romadhony"
+            ]
+        ],
+        [
+            "Sentence simplification based on multi stage encoder model",
+            [
+                "L Zhang",
+                "H Deng"
+            ]
+        ],
+        [
+            "Toward Genre Adapted Closed Captioning",
+            [
+                "F Buet",
+                "F Yvon"
+            ]
+        ],
+        [
+            "Neural Natural Language Generation A Survey on Multilinguality Multimodality Controllability and Learning",
+            [
+                "E Erdem",
+                "M Kuyu",
+                "S Yagcioglu",
+                "A Frank"
+            ]
+        ],
+        [
+            "Sound natural Content rephrasing in dialog systems",
+            [
+                "A Einolghozati",
+                "A Gupta",
+                "K Diedrick",
+                "S Gupta"
+            ]
+        ],
+        [
+            "Beametrics A benchmark for language generation evaluation evaluation",
+            [
+                "T Scialom",
+                "F Hill"
+            ]
+        ],
+        [
+            "From theories on styles to their transfer in text Bridging the gap with a hierarchical survey",
+            [
+                "E Troiano",
+                "A Velutharambath"
+            ]
+        ],
+        [
+            "DEPSYM A Lightweight Syntactic Text Simplification Approach using Dependency Trees ",
+            [
+                "N Chatterjee",
+                "R Agarwal"
+            ]
+        ],
+        [
+            "Unsupervised text style transfer with content embeddings",
+            [
+                "K Carlson",
+                "A Riddell",
+                "D Rockmore"
+            ]
+        ],
+        [
+            "A Review of the Most Important Studies on Automated Text Simplification Evaluation Metrics",
+            [
+                "B Janfada",
+                "B Minaei-Bidgoli"
+            ]
+        ],
+        [
+            "BISECT Learning to Split and Rephrase Sentences with Bitexts",
+            [
+                "J Kim",
+                "M Maddela",
+                "R Kriz",
+                "W Xu"
+            ]
+        ],
+        [
+            "Algorithmic Generation of Grammar Simplification Rules Using Large Corpora",
+            [
+                "A Szep",
+                "M Szep",
+                "G Leroy",
+                "D Kauchak"
+            ]
+        ],
+        [
+            "Text Revision by On the Fly Representation Optimization",
+            [
+                "J Li",
+                "Z Li",
+                "T Ge",
+                "I King",
+                "MR Lyu"
+            ]
+        ],
+        [
+            "The Role of Text Simplification Operations in Evaluation ",
+            [
+                "L Va\u0301squez-Rodri\u0301guez",
+                "M Shardlow",
+                "P Przybyla"
+            ]
+        ],
+        [
+            "Linguistic Capabilities for a Checklist based evaluation in Automatic Text Simplification ",
+            [
+                "OM Cumbicus-Pineda",
+                "I Gonzalez-Dios"
+            ]
+        ],
+        [
+            "Text Simplification with Reinforcement Learning Using Supervised Rewards on Grammaticality Meaning Preservation and Simplicity",
+            [
+                "A Nakamachi",
+                "T Kajiwara",
+                "Y Arase"
+            ]
+        ],
+        [
+            "Quantified Reproducibility Assessment of NLP Results",
+            [
+                "A Belz",
+                "M Popovic\u0301",
+                "S Mille"
+            ]
+        ],
+        [
+            "Simplification automatique de textes biom\u00e9dicaux en fran\u00e7ais lorsque des donn\u00e9es pr\u00e9cises de petite taille aident French Biomedical Text Simplification When ",
+            [
+                "R Cardon",
+                "N Grabar"
+            ]
+        ],
+        [
+            "Investigating text simplification evaluation",
+            [
+                "L Va\u0301squez-Rodri\u0301guez",
+                "M Shardlow",
+                "P Przyby\u0142a"
+            ]
+        ],
+        [
+            "Does it capture STEL A modular similarity based linguistic style evaluation framework",
+            [
+                "A Wegmann",
+                "D Nguyen"
+            ]
+        ],
+        [
+            "Leveraging Social Media for Medical Text Simplification",
+            [
+                "N Pattisapu",
+                "N Prabhu",
+                "S Bhati",
+                "V Varma"
+            ]
+        ],
+        [
+            "Artificial Intelligence in Inclusive Education",
+            [
+                "C Lewis"
+            ]
+        ],
+        [
+            "Is it simpler An Evaluation of an Aligned Corpus of Standard Simple Sentences",
+            [
+                "E Rennes"
+            ]
+        ],
+        [
+            "Towards more patient friendly clinical notes through language models and ontologies",
+            [
+                "F Moramarco",
+                "D Juric",
+                "A Savkov",
+                "J Flann"
+            ]
+        ],
+        [
+            "Building a Japanese typo dataset from Wikipedia s revision history",
+            [
+                "Y Tanaka",
+                "Y Murawaki",
+                "D Kawahara"
+            ]
+        ],
+        [
+            "Text simplification for comprehension based question answering",
+            [
+                "T Dadu",
+                "K Pant",
+                "S Nagar",
+                "FA Barbhuiya"
+            ]
+        ],
+        [
+            "DeepEva a deep neural network architecture for assessing sentence complexity in Italian and English languages",
+            [
+                "GL Bosco",
+                "G Pilato",
+                "D Schicchi"
+            ]
+        ],
+        [
+            "Multi Word Lexical Simplification",
+            [
+                "P Przyby\u0142a",
+                "M Shardlow"
+            ]
+        ],
+        [
+            "Text Simplification with Autoregressive Models",
+            [
+                "A Fenogenova",
+                "SD Sberbank"
+            ]
+        ],
+        [
+            "Novelty Controlled Paraphrase Generation with Retrieval Augmented Conditional Prompt Tuning",
+            [
+                "JR Chowdhury",
+                "Y Zhuang",
+                "S Wang"
+            ]
+        ],
+        [
+            "Extractive Summarization of Scientific Publications",
+            [
+                "L Krus\u030cic\u0301"
+            ]
+        ],
+        [
+            "Japanese grammatical simplification with simplified corpus",
+            [
+                "Y Inaoka",
+                "K Yamamoto"
+            ]
+        ],
+        [
+            "Exploring simplified subtitles to support spoken language understanding",
+            [
+                "K Angerbauer"
+            ]
+        ],
+        [
+            "Improving Human Text Simplification with Sentence Fusion",
+            [
+                "M Schwarzer",
+                "T Tanprasert"
+            ]
+        ],
+        [
+            "Multitasking framework for unsupervised simple definition generation",
+            [
+                "C Kong",
+                "Y Chen",
+                "H Zhang",
+                "L Yang",
+                "E Yang"
+            ]
+        ],
+        [
+            "Break it down for me A study in automated lyric annotation",
+            [
+                "L Sterckx",
+                "J Naradowsky",
+                "B Byrne",
+                "T Demeester"
+            ]
+        ],
+        [
+            "A Survey of Neural Models for Abstractive Summarization",
+            [
+                "T Baumel",
+                "M Elhadad"
+            ]
+        ],
+        [
+            "Extremely low resource text simplification with pre trained transformer language model",
+            [
+                "T Maruyama",
+                "K Yamamoto"
+            ]
+        ],
+        [
+            "Sentence simplification with transformer XL and paraphrase rules",
+            [
+                "F Fang",
+                "M Stevens"
+            ]
+        ],
+        [
+            "From Complex Sentences to a Formal Semantic Representation using Syntactic Text Simplification and Open Information Extraction",
+            [
+                "C Niklaus"
+            ]
+        ],
+        [
+            "A Syntax Aware Edit based System for Text Simplification",
+            [
+                "OM Cumbicus-Pineda",
+                "I Gonzalez-Dios"
+            ]
+        ],
+        [
+            "A semi supervised approach for low resourced text generation",
+            [
+                "H Zang",
+                "X Wan"
+            ]
+        ],
+        [
+            "Monolingual Sentence Rewriting as Machine Translation Generation and Evaluation",
+            [
+                "C Napoles-Cohen"
+            ]
+        ],
+        [
+            "An Imitation Learning Curriculum for Text Editing with Non Autoregressive Models",
+            [
+                "S Agrawal",
+                "M Carpuat"
+            ]
+        ],
+        [
+            "Evaluation of split and rephrase output of the knowledge extraction tool in the intelligent tutoring system",
+            [
+                "A Grubis\u030cic\u0301",
+                "B Z\u030citko",
+                "A Gas\u030cpar",
+                "D Vasic\u0301"
+            ]
+        ],
+        [
+            "Finding Spoiler Bias in Tweets by Zero shot Learning and Knowledge Distilling from Neural Text Simplification",
+            [
+                "A Bleiweiss"
+            ]
+        ],
+        [
+            "Idiomatic Expression Paraphrasing without Strong Supervision",
+            [
+                "J Zhou",
+                "Z Zeng",
+                "H Gong",
+                "S Bhat"
+            ]
+        ],
+        [
+            "Quality of syntactic implication of RL based sentence summarization",
+            [
+                "HT Le",
+                "C Cerisara",
+                "C Gardent"
+            ]
+        ],
+        [
+            "Automatic Cluster Analysis of Texts in Simplified German",
+            [
+                "A Battisti"
+            ]
+        ],
+        [
+            "Bilingual Pivoting \u306b\u3088\u308b\u8a00\u3044\u63db\u3048\u7372\u5f97\u306e\u76f8\u4e92\u60c5\u5831\u91cf\u306b\u57fa\u3065\u304f\u4e00\u822c\u5316",
+            [
+                "\u68b6\u539f\u667a\u4e4b",
+                "\u5c0f\u753a\u5b88",
+                "\u6301\u6a4b\u5927\u5730"
+            ]
+        ],
+        [
+            "Eski T\u00fcrk\u00e7e Metinlerin G\u00fcn\u00fcm\u00fcz T\u00fcrk\u00e7esine Sadele\u015ftirilmesi",
+            [
+                "E O\u0308zkan"
+            ]
+        ],
+        [
+            "\u30c6\u30ad\u30b9\u30c8\u5e73\u6613\u5316\u306b\u304a\u3051\u308b\u8a9e\u5f59\u5236\u7d04\u306b\u57fa\u3065\u304f\u96e3\u6613\u5ea6\u5236\u5fa1",
+            [
+                "\u897f\u539f\u5927\u8cb4",
+                "\u68b6\u539f\u667a\u4e4b",
+                "\u8352\u702c\u7531\u7d00"
+            ]
+        ],
+        [
+            "\u30bd\u30d5\u30c8\u306a\u8a9e\u5f59\u5236\u7d04\u306b\u3088\u308b\u30c6\u30ad\u30b9\u30c8\u96e3\u6613\u5ea6\u5236\u5fa1\u306e\u691c\u8a0e",
+            [
+                "\u897f\u539f\u5927\u8cb4",
+                "\u68b6\u539f\u667a\u4e4b",
+                "\u8352\u702c\u7531\u7d00"
+            ]
+        ],
+        [
+            "Sentence simplification from non parallel corpus with adversarial learning",
+            [
+                "T Kawashima",
+                "T Takagi"
+            ]
+        ],
+        [
+            "Controllable Sentence Simplification with a Unified Text to Text Transfer Transformer",
+            [
+                "KC Sheang",
+                "H Saggion"
+            ]
+        ],
+        [
+            "Context Aware Automatic Text Simplification of Health Materials in Low Resource Domains",
+            [
+                "T Sakakini",
+                "JY Lee",
+                "A Duri",
+                "RFL Azevedo"
+            ]
+        ],
+        [
+            "Chinese Automatic Text Simplification Based on Unsupervised Learning",
+            [
+                "Y Sen",
+                "Y Fuping"
+            ]
+        ],
+        [
+            "SEMA Text Simplification Evaluation through Semantic Alignment",
+            [
+                "X Zhang",
+                "H Zhao",
+                "KX Zhang"
+            ]
+        ],
+        [
+            "Generating Related Work",
+            [
+                "DJ Shah",
+                "R Barzilay"
+            ]
+        ],
+        [
+            "EdiT5 Semi Autoregressive Text Editing with T5 Warm Start",
+            [
+                "J Mallinson",
+                "J Adamek",
+                "E Malmi",
+                "A Severyn"
+            ]
+        ],
+        [
+            "Modernization of old turkish texts",
+            [
+                "E O\u0308zkan",
+                "G Ercan"
+            ]
+        ],
+        [
+            "A Hybrid Sequential Model for Text Simplification",
+            [
+                "S Sarkar",
+                "D Das",
+                "P Pakray",
+                "D Pinto"
+            ]
+        ],
+        [
+            "Towards Arabic Sentence Simplification via Classification and Generative Approaches",
+            [
+                "N Khallaf",
+                "S Sharoff"
+            ]
+        ],
+        [
+            "Query Focused Summarization Using Seq2seq Models",
+            [
+                "T Baumel"
+            ]
+        ],
+        [
+            "Automatic Lexical Simplification for Turkish",
+            [
+                "AY Uluslu"
+            ]
+        ],
+        [
+            "Contrastive Text Generation",
+            [
+                "DJ Shah"
+            ]
+        ],
+        [
+            "A Dynamic Multi criteria Multi engine Approach for Text Simplification",
+            [
+                "VHA Ribeiro",
+                "P Cavalin",
+                "E Morais"
+            ]
+        ],
+        [
+            "A Comprehensive Review of Arabic Text summarization",
+            [
+                "A Elsaid",
+                "A Mohammed",
+                "L Fattouh",
+                "M Sakre"
+            ]
+        ],
+        [
+            "Evaluation of an online text simplification editor using manual and automated metrics for perceived and actual text difficulty",
+            [
+                "G Leroy",
+                "D Kauchak",
+                "D Haeger",
+                "D Spegman"
+            ]
+        ],
+        [
+            "Predicting Sentence Deletions for Text Simplification Using a Functional Discourse Structure",
+            [
+                "B Zhang",
+                "PK Choubey",
+                "R Huang"
+            ]
+        ],
+        [
+            "Understanding Iterative Revision from Human Written Text",
+            [
+                "W Du",
+                "V Raheja",
+                "D Kumar",
+                "ZM Kim",
+                "M Lopez"
+            ]
+        ],
+        [
+            "An Efficient Approach to Restructure Natural Language Text",
+            [
+                "RN Kulkarni",
+                "S Koduri"
+            ]
+        ],
+        [
+            "PETCI A Parallel English Translation Dataset of Chinese Idioms",
+            [
+                "K Tang"
+            ]
+        ],
+        [
+            "Phrase Level Simplification for Non Native Speakers",
+            [
+                "GH Paetzold",
+                "L Specia"
+            ]
+        ],
+        [
+            "A Data Selection Framework to Improve Unsupervised Sentence Simplification Using Fine Tuned Bert",
+            [
+                "MA Rashid",
+                "H Amirkhani"
+            ]
+        ],
+        [
+            "Is Simple English Wikipedia As Simple And Easy to Understand As We Expect It To Be ",
+            [
+                "S Stajner",
+                "S Nisioi",
+                "D Ibanez"
+            ]
+        ],
+        [
+            "Sentence Simplification in context of Automatic Question Generation",
+            [
+                "D Yarish"
+            ]
+        ],
+        [
+            "Same Author or Just Same Topic Towards Content Independent Style Representations",
+            [
+                "A Wegmann",
+                "M Schraagen",
+                "D Nguyen"
+            ]
+        ],
+        [
+            "Machine Intelligence to Detect Characterise and Defend against Influence Operations in the Information Environment",
+            [
+                "S Volkova",
+                "M Glenski",
+                "E Ayton"
+            ]
+        ],
+        [
+            "Towards a Practically Useful Text Simplification System",
+            [
+                "RJ Kriz"
+            ]
+        ],
+        [
+            "Constructing Tunable Sentence Simplification Models using Deep Learning",
+            [
+                "S Zhao"
+            ]
+        ],
+        [
+            "Deep learning techniques for image captioning",
+            [
+                "M Hossain"
+            ]
+        ],
+        [
+            "Automatic Simplification of Scientific Texts SimpleText Lab at CLEF 2022",
+            [
+                "L Ermakova",
+                "P Bellot",
+                "J Kamps",
+                "D Nurbakova"
+            ]
+        ],
+        [
+            "Simple TICO 19 A dataset for joint translation and simplification of covid 19 texts",
+            [
+                "M Shardlow",
+                "F Alva-Manchego"
+            ]
+        ],
+        [
+            "Text Simplification From Daedalian to Simple",
+            [
+                "N Prabhu"
+            ]
+        ],
+        [
+            "Learning to Simplify with Data Hopelessly Out of Alignment",
+            [
+                "T Nomoto"
+            ]
+        ],
+        [
+            "Linguistically Based Comparison of Different Approaches to Building Corpora for Text Simplification A Case Study on Italian",
+            [
+                "D Brunato",
+                "F Dell'Orletta",
+                "G Venturi"
+            ]
+        ],
+        [
+            "Text Generation with and without Retrieval",
+            [
+                "A Fan"
+            ]
+        ],
+        [
+            "Unsupervised Text Generation and its Application to News Interfaces",
+            [
+                "P Laban"
+            ]
+        ],
+        [
+            "Improving sentence simplification model with ordered neurons network",
+            [
+                "C Deng",
+                "L Zhang",
+                "H Deng"
+            ]
+        ],
+        [
+            "Robust and Efficient Deep Learning for Misinformation Prevention",
+            [
+                "T Schuster"
+            ]
+        ],
+        [
+            "A Benchmark Dataset for Multi Level Complexity Controllable Machine Translation",
+            [
+                "K Tani",
+                "R Yuasa",
+                "K Takikawa",
+                "A Tamura",
+                "T Kajiwara"
+            ]
+        ],
+        [
+            "Better Retrieval May Not Lead to Better Question Answering",
+            [
+                "Z Liang",
+                "T Khot",
+                "S Bethard",
+                "M Surdeanu"
+            ]
+        ],
+        [
+            "A Language independent Metric for Measuring Text Simplification that does not Require a Parallel Corpus",
+            [
+                "L Mucida",
+                "A Oliveira",
+                "M Possi"
+            ]
+        ],
+        [
+            "Unsupervised Sentence Simplification via Dependency Parsing",
+            [
+                "V Vo",
+                "W Wang",
+                "W Buntine"
+            ]
+        ],
+        [
+            "Web application for alignment of sentence pairs from parallel corpora",
+            [
+                "S Ljepojevic"
+            ]
+        ],
+        [
+            "Universal rewriting via machine translation",
+            [
+                "J Mallinson"
+            ]
+        ],
+        [
+            "Analyses and Creation of Author Stylized Text",
+            [
+                "K Carlson"
+            ]
+        ],
+        [
+            "Neural Driven Search Based Paraphrase Generation",
+            [
+                "B Fabre",
+                "T Urvoy",
+                "J Chevelu"
+            ]
+        ],
+        [
+            "Reproducibility of Exploring Neural Text Simplification Models A Review",
+            [
+                "M Arvan",
+                "L Pina",
+                "N Parde"
+            ]
+        ],
+        [
+            "A Comparative Study of Text Genres in English Chinese Translation Effects Based on Deep Learning LSTM",
+            [
+                "X Zhao",
+                "X Jin"
+            ]
+        ],
+        [
+            "Pattern Based Syntactic Simplification of Compound and Complex Sentences",
+            [
+                "AP Kumar",
+                "A Nayak",
+                "M Shenoy",
+                "RJ Manoj"
+            ]
+        ],
+        [
+            "On the advantages of non autoregressive edit based modeling for sentence simplification",
+            [
+                "N Shokraneh",
+                "A\u0301 Ka\u0301da\u0301r",
+                "AI Borealis"
+            ]
+        ],
+        [
+            "Klexikon A German Dataset for Joint Summarization and Simplification",
+            [
+                "D Aumiller",
+                "M Gertz"
+            ]
+        ],
+        [
+            "Tailoring Automatic Text Simplification Output for Deaf and Hard of Hearing Adults",
+            [
+                "E McGill"
+            ]
+        ],
+        [
+            "Evaluation of Automatic Text Simplification Where are we now where should we go from here",
+            [
+                "N Grabar",
+                "H Saggion"
+            ]
+        ],
+        [
+            "SimpleNER Sentence Simplification System for GEM 2021",
+            [
+                "KVA Srivatsa",
+                "M Gokani"
+            ]
+        ],
+        [
+            "Prior Attention for Style aware Sequence to Sequence Models",
+            [
+                "L Sterckx",
+                "J Deleu",
+                "C Develder",
+                "T Demeester"
+            ]
+        ],
+        [
+            "DDD Digital Data Deception Technology Watch Newsletter",
+            [
+                "S Tzu"
+            ]
+        ],
+        [
+            "HatCUP Hybrid Analysis and Attention based Just In Time Comment Updating",
+            [
+                "H Zhu",
+                "X He",
+                "L Xu"
+            ]
+        ],
+        [
+            "TS ANNO An Annotation Tool to Build Annotate and Evaluate Text Simplification Corpora",
+            [
+                "R Stodden",
+                "L Kallmeyer"
+            ]
+        ],
+        [
+            "Teaching Machines to Ask Useful Clarification Questions",
+            [
+                "S Rao"
+            ]
+        ],
+        [
+            "Automatic Text Simplification for German",
+            [
+                "S Ebling",
+                "A Battisti",
+                "M Kostrzewa",
+                "D Pfu\u0308tze"
+            ]
+        ],
+        [
+            "Idiomatic sentence generation and paraphrasing",
+            [
+                "J Zhou"
+            ]
+        ],
+        [
+            "Generating subtitles with controllable length using natural language processing",
+            [
+                "J Svensson",
+                "V Troksch"
+            ]
+        ],
+        [
+            "Importance of Data and Controllability in Neural Text Simplification ",
+            [
+                "W Xu"
+            ]
+        ],
+        [
+            "Transforming unstructured digital clinical notes for improved health literacy",
+            [
+                "S Doppalapudi",
+                "T Wang",
+                "R Qiu"
+            ]
+        ],
+        [
+            "Formality Style Transfer within and across Languages with Limited Supervision",
+            [
+                "X Niu"
+            ]
+        ],
+        [
+            "Sentence Pair Modeling and Beyond",
+            [
+                "W Lan"
+            ]
+        ],
+        [
+            "Complex Word Identification in Vietnamese Towards Vietnamese Text Simplification",
+            [
+                "P Nguyen",
+                "D Kauchak"
+            ]
+        ],
+        [
+            "Storytelling from Structured Data and Knowledge Graphs An NLG Perspective",
+            [
+                "AMALK Sankaranarayanan"
+            ]
+        ],
+        [
+            "Automatic Adaptation of Swedish Text for Increased Inclusion",
+            [
+                "E Rennes"
+            ]
+        ],
+        [
+            "Ensembling and Score Based Filtering in Sentence Alignment for Automatic Simplification of German Texts",
+            [
+                "N Spring",
+                "M Kostrzewa",
+                "A Rios",
+                "S Ebling"
+            ]
+        ],
+        [
+            "Crowdsourcing Text Simplification with Sentence Fusion",
+            [
+                "M Schwarzer"
+            ]
+        ],
+        [
+            "Master Thesis title MAL izenburua",
+            [
+                "I Gonzalez-Dios",
+                "K Bengoetxea"
+            ]
+        ],
+        [
+            "Knowledge base integration in biomedical natural language processing applications",
+            [
+                "T Sakakini"
+            ]
+        ],
+        [
+            "Portuguese Neural Text Simplification Using Machine Translation",
+            [
+                "TB Lima",
+                "ACA Nascimento",
+                "G Valenc\u0327a"
+            ]
+        ],
+        [
+            "Adversarial Neural Text Simplification with a Focus on the Medical Domain",
+            [
+                "L Abegg"
+            ]
+        ],
+        [
+            "Neural Methods for Sentiment Analysis and Text Summarization",
+            [
+                "TH Le"
+            ]
+        ],
+        [
+            "Continual Learning for One to many Entity Relationship Generation with Small Samples",
+            [
+                "J Yaren",
+                "L Xiaoqiu"
+            ]
+        ],
+        [
+            "Reflective Decoding Unsupervised Paraphrasing and Abductive Reasoning",
+            [
+                "P West",
+                "X Lu",
+                "A Holtzman",
+                "C Bhagavatula",
+                "J Hwang"
+            ]
+        ],
+        [
+            "Measuring Text Comprehension for People with Reading Difficulties Using a Mobile Application",
+            [
+                "A Sa\u0308uberli"
+            ]
+        ],
+        [
+            "Horacio Saggion Automatic Text Simplification Synthesis lectures on human language technologies April 2017 137 pages ISBN 1627058680 9781627058681",
+            [
+                "C Scarton"
+            ]
+        ],
+        [
+            "Multi Objective Learning for Multi Modal Natural Language Generation",
+            [
+                "R Pasunuru"
+            ]
+        ],
+        [
+            "Tree Transduction as a Means for Efficient Sentence Simplification",
+            [
+                "A Siderova"
+            ]
+        ],
+        [
+            "Evaluating Factuality in Text Simplification",
+            [
+                "A Devaraj",
+                "W Sheffield",
+                "BC Wallace",
+                "JJ Li"
+            ]
+        ],
+        [
+            "MVP Multi task Supervised Pre training for Natural Language Generation",
+            [
+                "T Tang",
+                "J Li",
+                "WX Zhao",
+                "JR Wen"
+            ]
+        ],
+        [
+            "Zero shot reductive paraphrasing for digitally semi literate",
+            [
+                "P Sharma",
+                "N Goyal"
+            ]
+        ],
+        [
+            "Automatic English Text Simplification for Statutes",
+            [
+                "A Muralidharan"
+            ]
+        ],
+        [
+            "Enhancing Text Readability Using Deep Learning Techniques",
+            [
+                "W Alkaldi"
+            ]
+        ],
+        [
+            "SimpleBERT A Pre trained Model That Learns to Generate Simple Words",
+            [
+                "R Sun",
+                "X Wan"
+            ]
+        ],
+        [
+            "Measuring Reading Comprehension and Text Comprehensibility Using a Touchscreen Application",
+            [
+                "A Sa\u0308uberli"
+            ]
+        ],
+        [
+            "GRS Combining Generation and Revision in Unsupervised Sentence Simplification",
+            [
+                "M Dehghan",
+                "D Kumar",
+                "L Golab"
+            ]
+        ],
+        [
+            "Lexical simplification for the systematic support of cognitive accessibility guidelines",
+            [
+                "R Alarco\u0301n Garci\u0301a"
+            ]
+        ],
+        [
+            "Complex Term Identification for Ukrainian Medical Texts",
+            [
+                "O Kanishcheva"
+            ]
+        ],
+        [
+            "Text Simplification for Comprehension based Question Answering",
+            [
+                "K Pant",
+                "T Dadu",
+                "S Nagar",
+                "FA Barbhuiya",
+                "K Dey"
+            ]
+        ],
+        [
+            "Impact of the Text Simplification on Understanding",
+            [
+                "O Ivchenko",
+                "N Grabar"
+            ]
+        ],
+        [
+            "Sentence Simplification Capabilities of Transfer Based Models",
+            [
+                "S S\u030ctajner",
+                "KC Sheang",
+                "H Saggion"
+            ]
+        ],
+        [
+            "GEMv2 Multilingual NLG Benchmarking in a Single Line of Code",
+            [
+                "S Gehrmann",
+                "A Bhattacharjee",
+                "A Mahendiran"
+            ]
+        ],
+        [
+            "Personalized English Lexical Simplification for Chinese",
+            [
+                "Y Yin",
+                "F Zhang",
+                "Y Li",
+                "J Zhang"
+            ]
+        ],
+        [
+            "Lexical Substitution is Practical for Rare Word Simplification",
+            [
+                "T Maruyama",
+                "K Yamamoto"
+            ]
+        ],
+        [
+            "Identification and rewriting of negative translatability indicators in human translation Pre editing Japanese hybrid texts for translation into Chinese",
+            [
+                "B He"
+            ]
+        ],
+        [
+            "Text Simplification for Scientific Information Access",
+            [
+                "L Ermakova",
+                "P Bellot",
+                "P Braslavski",
+                "J Kamps",
+                "J Mothe"
+            ]
+        ],
+        [
+            "Natural language generation as neural sequence learning and beyond",
+            [
+                "X Zhang"
+            ]
+        ],
+        [
+            "Review of neural approaches for conditional text generation",
+            [
+                "OH Skurzhanskyi",
+                "AA Marchenko"
+            ]
+        ],
+        [
+            "Controlling the Complexity of Machine Translation Output",
+            [
+                "K Marchisio",
+                "JC Guo",
+                "CIJ Lai",
+                "P Koehn"
+            ]
+        ],
+        [
+            "A Controllable Text Simplification System for the Italian Language",
+            [
+                "AL Megna",
+                "D Schicchi",
+                "GL Bosco"
+            ]
+        ],
+        [
+            "Leveraging word representation for text simplification evaluation",
+            [
+                "T ZUO",
+                "N YOSHINAGA"
+            ]
+        ],
+        [
+            "Evaluation of Automatic Text Simplification Where are we now where should we go from here",
+            [
+                "H Saggion"
+            ]
+        ],
+        [
+            "Inducing Positive Perspectives with Text Reframing",
+            [
+                "C Ziems",
+                "M Li",
+                "A Zhang",
+                "D Yang"
+            ]
+        ],
+        [
+            "Teaching a Massive Open Online Course on Natural Language Processing",
+            [
+                "E Artemova",
+                "M Apishev",
+                "V Sarkisyan",
+                "S Aksenov"
+            ]
+        ],
+        [
+            "IELTS translation education corpus construction based on bilingual non parallel data model",
+            [
+                "Q Zhou"
+            ]
+        ],
+        [
+            "Updated Headline Generation Creating Updated Summaries for Evolving News Stories",
+            [
+                "S Panthaplackel",
+                "A Benton"
+            ]
+        ],
+        [
+            "Evaluating and Explaining Natural Language Generation with GenX",
+            [
+                "K Duskin",
+                "S Sharma",
+                "JY Yun",
+                "E Saldanha"
+            ]
+        ],
+        [
+            "Text Embellishment using Attention Based Encoder Decoder Model",
+            [
+                "S Naskar",
+                "S Saha",
+                "S Mukherjee"
+            ]
+        ],
+        [
+            "ruBTS Russian Sentence Simplification Using Back translation",
+            [
+                "F Galeev",
+                "M Leushina",
+                "V Ivanov"
+            ]
+        ],
+        [
+            "Overview of SimpleText CLEF 2021 Workshop and Pilot Tasks",
+            [
+                "L Ermakova",
+                "P Bellot",
+                "P Braslavski",
+                "J Kamps"
+            ]
+        ],
+        [
+            "Collaborative augmentation and simplification of text CoAST pedagogical applications of natural language processing in digital learning environments",
+            [
+                "M Shardlow",
+                "S Sellar",
+                "D Rousell"
+            ]
+        ],
+        [
+            "Computational Discourse Analysis Across Complexity Levels",
+            [
+                "E Davoodi"
+            ]
+        ],
+        [
+            "Neural Transduction of Letter Position Dyslexia using an Anagram Matrix Representation",
+            [
+                "A Bleiweiss"
+            ]
+        ],
+        [
+            "Continual T0 Progressively Instructing 50 Tasks to Language Models Without Forgetting",
+            [
+                "T Scialom",
+                "T Chakrabarty",
+                "S Muresan"
+            ]
+        ],
+        [
+            "\u8a00\u8a9e\u5b66\u7fd2\u652f\u63f4\u306e\u305f\u3081\u306e\u30cb\u30e5\u30fc\u30e9\u30eb\u8a00\u3044\u63db\u3048\u751f\u6210",
+            [
+                "\u5c0f\u753a\u5b88",
+                "\u68b6\u539f\u667a\u4e4b"
+            ]
+        ],
+        [
+            "\u6587\u6cd5\u8aa4\u308a\u8a02\u6b63\u306e\u53c2\u7167\u6587\u3092\u7528\u3044\u306a\u3044\u81ea\u52d5\u8a55\u4fa1\u306e\u4eba\u624b\u8a55\u4fa1\u3078\u306e\u6700\u9069\u5316",
+            [
+                "\u5409\u6751\u7dbe\u99ac",
+                "\u91d1\u5b50\u6b63\u5f18",
+                "\u68b6\u539f\u667a\u4e4b",
+                "\u5c0f\u753a\u5b88"
+            ]
+        ],
+        [
+            "\u8aac\u660e\u6587\u3092\u5bfe\u8c61\u3068\u3057\u305f\u65e5\u672c\u8a9e\u6587\u672b\u8ff0\u8a9e\u306e\u5e73\u6613\u5316",
+            [
+                "\u52a0\u85e4\u6c70\u4e00",
+                "\u5bae\u7530\u73b2",
+                "\u4f50\u85e4\u7406\u53f2"
+            ]
+        ],
+        [
+            "Vers la production automatique de sous titres adapt\u00e9s \u00e0 l affichage Towards automatic adapted monolingual captioning ",
+            [
+                "F Buet",
+                "F Yvon"
+            ]
+        ],
+        [
+            "Unsupervised text simpli\ufb01cation using neural style transfer",
+            [
+                "O Kariuk"
+            ]
+        ],
+        [
+            "\u30b9\u30bf\u30a4\u30eb\u5909\u63db\u306e\u305f\u3081\u306e\u6298\u308a\u8fd4\u3057\u7ffb\u8a33\u306b\u57fa\u3065\u304f\u4e8b\u524d\u8a13\u7df4",
+            [
+                "\u68b6\u539f\u667a\u4e4b",
+                "\u4e09\u6d66\u3072\u3099\u308f",
+                "\u8352\u702c\u7531\u7d00"
+            ]
+        ],
+        [
+            "\u65e5\u672c\u8a9e\u8a71\u3057\u8a00\u8449\u66f8\u304d\u8a00\u8449\u5909\u63db\u306b\u3088\u308b\u5927\u5b66\u8b1b\u7fa9\u306e\u65e5\u82f1\u7ffb\u8a33\u306e\u7cbe\u5ea6\u5411\u4e0a",
+            [
+                "\u4e2d\u5c3e\u4eae\u592a",
+                "\u9ed2\u6a4b\u798e\u592b"
+            ]
+        ],
+        [
+            "Estudio de simplificaci\u00f3n de oraciones con modelos actor critic",
+            [
+                "MD Mazuecos Perez"
+            ]
+        ],
+        [
+            "\u6587\u30ec\u30d9\u30eb\u306e\u96e3\u6613\u5ea6\u3092\u7528\u3044\u305f\u5f37\u5316\u5b66\u7fd2\u306b\u3088\u308b\u96e3\u6613\u5ea6\u5236\u5fa1",
+            [
+                "\u4e95\u5ddd\u670b\u6a39",
+                "\u68b6\u539f\u667a\u4e4b",
+                "\u4e8c\u5bae\u5d07"
+            ]
+        ]
+    ]
+}
